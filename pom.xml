@@ -146,4 +146,7 @@
     <url>https://travis-ci.org/rajendarreddyj/development-java10-features</url>
     <system>Travis</system>
   </ciManagement>
+  <modules>
+  	<module>java10</module>
+  </modules>
 </project>
